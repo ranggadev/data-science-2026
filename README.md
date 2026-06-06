@@ -1,8 +1,13 @@
-**Nama Lengkap**    : Rangga Saputra  
+**Nama Lengkap**    : Rangga Saputra
+
 **NIM**             : 250401020034
+
 **Kelas**           : IF405
-**Prodi**           : PJJ Informatika  
+
+**Prodi**           : PJJ Informatika
+
 **Dosen**           : Syahid Abdullah, S.Si., M.Kom.
+
 
 ---
 
