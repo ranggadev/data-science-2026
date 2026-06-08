@@ -49,6 +49,52 @@ Repository ini berisi seluruh hasil praktikum Data Science dari Pertemuan 1 hing
 
 ---
 
+## Cara Menjalankan Notebook
+
+### Via Google Colab (Direkomendasikan)
+
+1. Buka notebook yang ingin dijalankan
+2. Salin URL notebook GitHub : https://github.com/ranggadev/data-science-2026
+3. Buka : https://colab.research.google.com
+4. Pilih tab **GitHub**
+5. Tempel URL notebook atau repository
+6. Pilih notebook yang ingin dibuka
+7. Klik **Runtime → Run All**
+
+### Via Lokal (Jupyter Notebook)
+
+```bash
+# Clone repository
+git clone https://github.com/ranggadev/data-science-2026.git
+
+# Masuk ke folder project
+cd data-science-2026
+
+# Buat virtual environment
+python -m venv venv
+
+# Aktifkan environment
+# Windows
+venv\Scripts\activate
+
+# Linux/macOS
+source venv/bin/activate
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Jalankan Jupyter Notebook
+jupyter notebook
+```
+
+### Requirements
+
+- Python 3.11+
+- Jupyter Notebook
+
+---
+
+
 ## Kesimpulan Umum Perjalanan Belajar
 - Sebanyak tujuh pertemuan ini merupakan perjalanan belajar yang mengalir, dari yang paling sederhana sampai yang paling menantang.
 - Di awal (Pertemuan 1–2), membangun fondasi, memahami dasar Python, belajar membaca dan mengeksplorasi data menggunakan Pandas dan NumPy.
