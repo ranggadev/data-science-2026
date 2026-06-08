@@ -107,4 +107,4 @@ jupyter notebook
 
 ---
 
-*Terima kasih**
+*Terima kasih*
