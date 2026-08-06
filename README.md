@@ -32,6 +32,11 @@ Repository ini berisi seluruh hasil praktikum Data Science dari Pertemuan 1 hing
 | 5 | Pertemuan 5 | Visualisasi Data | [Buka Notebook](Pertemuan5_RanggaSaputra_250401020034.ipynb) |
 | 6 | Pertemuan 6 | Persiapan Data | [Buka Notebook](Pertemuan6_RanggaSaputra_250401020034.ipynb) |
 | 7 | Pertemuan 7 | Pengantar Machine Learning: Regresi Linear | [Buka Notebook](Pertemuan7_RanggaSaputra_250401020034.ipynb) |
+| 8 | Pertemuan 9 | Algoritma Klasifikasi (Bagian 1): Logistic Regression, Decision Trees, Confusion Matrix, Accuracy, Precision, Recall, dan F1-Score | [Buka Notebook](Pertemuan9_RanggaSaputra_250401020034.ipynb) |
+| 9 | Pertemuan 10 | Algoritma Klasifikasi (Bagian 2): Metode Ensemble (Random Forest) dan penanganan Imbalanced Dataset | [Buka Notebook](Pertemuan10_RanggaSaputra_250401020034.ipynb) |
+| 10 | Pertemuan 11 | Unsupervised Learning (Clustering): K-Means, Hierarchical Clustering, dan Metode Elbow untuk menentukan jumlah cluster optimal | [Buka Notebook](Pertemuan11_RanggaSaputra_250401020034.ipynb) |
+| 11 | Pertemuan 12 | Asosiasi Data & Sistem Rekomendasi Dasar: Algoritma Apriori (Market Basket Analysis) dan konsep Collaborative/Content-Based Filtering | [Buka Notebook](Pertemuan12_RanggaSaputra_250401020034.ipynb) |
+| 12 | Pertemuan 13 | Pengantar Deep Learning & NLP Dasar: konsep dasar Artificial Neural Network, serta pemrosesan teks sederhana dengan TF-IDF untuk analisis sentimen | [Buka Notebook](Pertemuan13_RanggaSaputra_250401020034.ipynb) |
 
 ---
 
