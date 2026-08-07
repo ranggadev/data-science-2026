@@ -4,7 +4,7 @@
 
 **Kelas**           : IF405
 
-**Prodi**           : PJJ Informatika
+**Prodi**           : S1 - PJJ Informatika
 
 **Dosen**           : Syahid Abdullah, S.Si., M.Kom.
 
@@ -101,14 +101,18 @@ jupyter notebook
 
 
 ## Kesimpulan Umum Perjalanan Belajar
-- Sebanyak tujuh pertemuan ini merupakan perjalanan belajar yang mengalir, dari yang paling sederhana sampai yang paling menantang.
-- Di awal (Pertemuan 1–2), membangun fondasi, memahami dasar Python, belajar membaca dan mengeksplorasi data menggunakan Pandas dan NumPy.
-- Dataset Titanic pada pertemuan 2 mengajarkan bahwa data bisa bercerita banyak hal kalau kita tahu cara membaca dan mengolahnya.
-- Di tengah perjalanan (Pertemuan 3–5), saya belajar ternyata data di dunia nyata itu jarang sekali bersih dan rapi.
+- Perjalanan belajar Data Science ini mengalir dari Pertemuan 1 sampai 13, dari yang paling sederhana sampai yang paling menantang.
+- Di awal (Pertemuan 1 sampai 2), saya membangun fondasi, memahami dasar Python, belajar membaca dan mengeksplorasi data menggunakan Pandas dan NumPy.
+- Dataset Titanic pada Pertemuan 2 mengajarkan bahwa data bisa bercerita banyak hal kalau kita tahu cara membaca dan mengolahnya.
+- Di tengah perjalanan (Pertemuan 3 sampai 5), saya belajar ternyata data di dunia nyata itu jarang sekali bersih dan rapi.
 - Data cleaning di Pertemuan 3 mengajarkan kesabaran dan ketelitian.
 - Pertemuan 4 dan 5 menunjukkan visualisasi bukan sekadar membuat grafik yang cantik, melainkan alat komunikasi untuk menyampaikan temuan secara jelas dan mudah dipahami.
-- Di penghujung (Pertemuan 6–7), Preprocessing data di Pertemuan 6 seperti merangkum semua teknik yang pernah dipelajari sebelumnya, dan Model Machine Learning pertama saya berhasil berjalan dan menghasilkan prediksi yang cukup akurat.
-- Dari semua perjalanan belajar ini, mengubah cara saya memandang data. Data bukan sekadar angka-angka, ia adalah cerita yang menunggu untuk diolah dan dibaca.
+- Di Pertemuan 6 dan 7, preprocessing data seperti merangkum semua teknik yang pernah dipelajari sebelumnya, dan model Machine Learning berhasil berjalan dan menghasilkan prediksi yang cukup akurat.
+- Lanjut ke Pertemuan 9 dan 10, yaitu belajar cara mengevaluasi model klasifikasi dengan benar. Awalnya saya pikir accuracy saja sudah cukup buat menilai model bagus atau tidak, ternyata itu bisa menyesatkan, apalagi kalau datanya tidak seimbang seperti dataset customer churn yang pakai di Pertemuan 10. Akhirnya jadi paham kenapa precision, recall, dan f1-score itu masing-masing punya cerita sendiri, dan metrik yang paling penting dipakai itu tergantung kasusnya, bukan asal pilih yang angkanya paling tinggi.
+- Pertemuan 11 soal unsupervised learning, di mana data dikelompokkan tanpa ada label jawaban sama sekali. Lewat K-Means dan metode Elbow, dapat dipelajari kalau pola dalam data itu kadang bisa ditemukan sendiri oleh algoritma, tanpa perlu tahu dulu jawabannya seperti apa.
+- Pertemuan 12 soal asosiasi data dan sistem rekomendasi. Hal simpel dan sederhana seperti kebiasaan "orang yang beli roti biasanya beli selai juga" itu bisa jadi dasar dari sistem rekomendasi yang setiap hari dipakai pada aplikasi belanja atau streaming musik.
+- Pertemuan 13 jadi penutup yang paling menantang, karena mulai masuk ke dasar neural network dan pemrosesan teks pakai TF-IDF. Di titik ini saya sadar deep learning itu sebenarnya bukan sesuatu yang ajaib, cuma kumpulan operasi matematika sederhana yang disusun berlapis-lapis supaya bisa menangkap pola yang lebih rumit dari yang bisa ditangkap model linear biasa.
+- Dari semua perjalanan belajar ini, disimpulkan kalau materi 1 sampai 7 membangun fondasi cara berpikir terhadap data, materi 9 sampai 13 yang mengajarkan cara mengambil keputusan dari data itu, baik lewat model prediksi, pengelompokan pelanggan, sampai sistem rekomendasi. Data bukan sekadar angka-angka, ia adalah cerita yang menunggu untuk diolah dan dibaca.
 
 ---
 
